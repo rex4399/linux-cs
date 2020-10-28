@@ -1,0 +1,5 @@
+#define SERVER_IP "10.110.88.88"
+#define SERVER_PORT 8888
+
+#define MAX_DATA_BUFFER 1024
+#define MAX_CLIENT 100
